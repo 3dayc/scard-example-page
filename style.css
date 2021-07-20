@@ -1,0 +1,19 @@
+/* 잔여한도-최근이용내역 */
+.cardux {
+  height: 100%;
+  background-color: rgb(243, 245, 248);
+}
+.cardux-text,
+.cardux-link {
+  font-size: 12px;
+}
+.cardux-list {
+  background-color: transparent;
+  border: 0px none;
+}
+.cardux-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+}
